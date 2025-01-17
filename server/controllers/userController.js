@@ -1,5 +1,4 @@
 // controllers/userController.js
-
 import { fql } from 'fauna';
 import client from '../models/faunaClient.js';
 
